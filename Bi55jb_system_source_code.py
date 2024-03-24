@@ -98,7 +98,7 @@ questions = {question1:"C",question2:"B",question3:"C",question4:"B",question5:"
 
 
 #firstly create a function
-def Assignment_quiz():
+def Quiz():
 
     #outer loop to allow multiple users
     users = []
@@ -163,4 +163,4 @@ def Assignment_quiz():
 
     #call the function
 
-Assignment_quiz ()
+Quiz ()
