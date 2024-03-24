@@ -1,6 +1,7 @@
 #imported the random function
 import random
 
+# Dictionary containing questions as keys and correct answers as values
 question1 = """Question 1: What is Python primarily used for?
 A) Cooking recipes
 B) Writing letters
